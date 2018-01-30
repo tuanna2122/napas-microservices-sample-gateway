@@ -1,0 +1,22 @@
+{
+    "payment": {
+        "title": "Payment Page!",
+        "subtitle": "This is your payment page",
+        "logged": {
+            "message": "You are logged in as user \"{{username}}\"."
+        },
+        "napas": {
+        	"gateway": {
+        		"vpcUrl": "Virtual Payment Client URL",
+        		"merchantId": "Merchant ID",
+        		"accessCode": "Access Code",
+        		"secureHash": "Secure Hash",
+        		"username": "Username",
+        		"password": "Password"
+        	}
+        },
+        "form": {
+        	"button": "Make Payment"
+        }
+    }
+}
